@@ -1,7 +1,8 @@
-### Hi, welcome to my GitHub HomePage 👋
+### Hi, welcome to my GitHub HomePage 🍉
 
-- 🔭 I’m currently working on SNNU
-- 🌱 I’m currently learning circRNA
+👤 About me:
+- 🔭 I’m currently working on circRNA
+- 🌱 I’m currently studying in SNNU
 - 📫 How to reach me: sps@snnu.edu.cn / pssun@foxmail.com
 - 🖥 Major: bioinformatics
 
