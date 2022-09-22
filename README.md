@@ -3,7 +3,7 @@
 👤 About me:
 - 🔭 I’m currently working on circRNA
 - 🌱 I’m currently studying in XJTU
-- 📫 How to reach me: pssun@foxmail.com
+- 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
 - 🖥 Major: bioinformatics
 
 📑 Paper: 
