@@ -2,8 +2,8 @@
 
 👤 About me:
 - 🔭 I’m currently working on circRNA
-- 🌱 I’m currently studying in SNNU
-- 📫 How to reach me: sps@snnu.edu.cn / pssun@foxmail.com
+- 🌱 I’m currently studying in XJTU
+- 📫 How to reach me: pssun@foxmail.com
 - 🖥 Major: bioinformatics
 
 📑 Paper: 
