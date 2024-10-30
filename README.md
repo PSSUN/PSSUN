@@ -6,10 +6,6 @@
 - 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
 - 🖥 Major:  Control Science and Engineering / Bioinformatics
 
-### 📑 Paper: 
- - [1] Sun P, Li G . CircCode: A Powerful Tool for Identifying circRNA Coding Ability[J]. Frontiers in Genetics, 2019, 10:981.
- - [2] Sun P, Wang H, Li G . Rcirc: An R Package for circRNA Analyses and Visualization[J]. Frontiers in Genetics, 2020, 11.
-
 
 <a
 id="cy-effective-orcid-url"
