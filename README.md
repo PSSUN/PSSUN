@@ -16,6 +16,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssun&theme=vue&layout=compact&hide=javascript,HTML,perl,CSS&card_width=220" />
 </a>
 
+### 🎯 Work on
+
+[![STMiner](https://svg.bookmark.style/api?url=https://github.com/PSSUN/STMiner&mode=light&style=horizontal)](https://github.com/PSSUN/STMiner)
+
 <a
 id="cy-effective-orcid-url"
 class="underline"
