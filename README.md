@@ -1,4 +1,4 @@
-# Hi, welcome to my GitHub HomePage 🍉
+
 
 ### 👤 About me:
 - 🔭 I’m currently working on ST-seq
@@ -6,6 +6,14 @@
 - 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
 - 🖥 Major:  Control Science and Engineering / Bioinformatics
 
+### 🚀 Overview
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pssun" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssun&layout=compact&hide=javascript,HTML,perl,CSS&card_width=320" />
+</a>
 
 <a
 id="cy-effective-orcid-url"
