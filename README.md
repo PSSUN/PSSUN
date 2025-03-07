@@ -3,7 +3,7 @@
 
 ### 👤 About me:
 - 🔭 I’m currently working on Spatial multi-omics.
-- 🌱 I’m currently studying at [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)
+- 🏫 I’m currently studying at [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)
 - 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
 - 🖥 Major:  Control Science and Engineering / Bioinformatics
 
@@ -27,6 +27,11 @@ class="underline"
  target="orcid.widget"
  rel="me noopener noreferrer"
  style="vertical-align: top">  
+
+### 📃 Selected publications
+
+[1] Sun P, Bush S J, Wang S, et al. STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues[J]. Cell Genomics, 2025, 5(2).
+[2] Sun P, Li G. CircCode: a powerful tool for identifying circRNA coding ability[J]. Frontiers in genetics, 2019, 10: 981.
 
 ### 📑 ORCID: 
 &emsp;
