@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pssun&theme=vue&card_width=220&include_all_commits=true&hide=prs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssun&theme=vue&layout=compact&hide=javascript,HTML,perl,CSS&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssun&theme=vue&layout=compact&hide=javascript,Jupyter%20Notebook,HTML,perl,CSS&card_width=220" />
 </a>
 
 ### 🎯 Work on
