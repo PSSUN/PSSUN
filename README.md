@@ -3,9 +3,9 @@
 
 ### 👤 About me:
 - 🔭 I’m currently working on Spatial multi-omics.
-- 🏫 I’m currently studying at [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)
+- 🏫 I’m currently studying at [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), School of Automation Science and Engineering.
 - 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
-- 🖥 Major:  Control Science and Engineering / Bioinformatics
+- 🖥 Major: Control Science and Engineering / Bioinformatics / Genomics
 
 ### 🚀 Overview
 
