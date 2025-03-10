@@ -33,6 +33,10 @@ class="underline"
 [1] **Sun P**, Bush S J, Wang S, et al. STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues[J]. **Cell Genomics**, 2025, 5(2).  
 [2] **Sun P**, Li G. CircCode: a powerful tool for identifying circRNA coding ability[J]. **Frontiers in genetics**, 2019, 10: 981.
 
+### 📱 Social media
+
+ - 𝕏 [@Sun_python](https://x.com/Sun_python)
+
 ### 📑 ORCID: 
 &emsp;
 <img
