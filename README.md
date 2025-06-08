@@ -9,7 +9,7 @@
 
 ### 💼 Research experience
 - In spatial omics data, the spatial expression patterns of key molecules, including but not limited to genes and proteins. (eg. [STMiner](https://github.com/xjtu-omics/STMiner))
-- Integrating and mining spatial multi-omics data using deep learning.  (eg. [SpaKnit](https://github.com/xjtu-omics/SpatialCOC))
+- Integrating and mining spatial multi-omics data using deep learning.  (eg. [SpatialCOC](https://github.com/xjtu-omics/SpatialCOC))
 - How alterations in biological sequences influence downstream functions.
 
 ### 📃 Selected publications
