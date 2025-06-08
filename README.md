@@ -1,13 +1,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-### 👤 About me:
+### 👨🏻‍🔬 About me:
 - 🔭 I’m currently working on Spatial multi-omics.
 - 🏫 I’m currently studying at [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), School of Automation Science and Engineering.
 - 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
 - 🖥 Major: Control Science and Engineering / Bioinformatics / Genomics
 
-### 💼 Research experience
+### 🔎 Research experience
 - In spatial omics data, the spatial expression patterns of key molecules, including but not limited to genes and proteins. (eg. [STMiner](https://github.com/xjtu-omics/STMiner))
 - Integrating and mining spatial multi-omics data using deep learning.  (eg. [SpatialCOC](https://github.com/xjtu-omics/SpatialCOC))
 - How alterations in biological sequences influence downstream functions.
