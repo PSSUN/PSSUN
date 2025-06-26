@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Spatial multi-omics.
 - 🏫 I’m currently studying at [Xi’an Jiaotong University](http://en.xjtu.edu.cn/), School of Automation Science and Engineering.
 - 📫 How to reach me: pssun@foxmail.com / sunpeisen@stu.xjtu.edu.cn
-- 🖥 Major: Control Science and Engineering / Bioinformatics / Genomics
+- 🖥 Major: Control Science and Engineering | Bioinformatics | Genomics
 
 ### 🔎 Research experience
 - In spatial omics data, the spatial expression patterns of key molecules, including but not limited to genes and proteins. (eg. [STMiner](https://github.com/xjtu-omics/STMiner))
