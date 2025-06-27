@@ -13,7 +13,7 @@
 - How alterations in biological sequences influence downstream functions.
 
 ### 📃 Selected publications
-[1] **Sun P**, Bush S J, Wang S, et al. [STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8)[J]. **Cell Genomics**, 2025, 5(2).  
+[1] **Sun P**, Bush S J, Wang S, et al. [STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8)[J]. **Cell Genomics**, 2025, 5(2). (*Featured content*)  
 [2] **Sun P**, Li G. CircCode: a powerful tool for identifying circRNA coding ability[J]. **Frontiers in genetics**, 2019, 10: 981.
 
 ### 🎯 Work on
