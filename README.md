@@ -27,8 +27,11 @@ class="underline"
  rel="me noopener noreferrer"
  style="vertical-align: top">  
 
-### 🚀 Overview
-[![trophy](https://github-profile-trophy.vercel.app/?username=pssun&title=-Reviews&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+### ⌨️ Actions
+[![PSSUN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pssun&theme=react&height=200&days=31)](https://github.com/pssun/github-readme-activity-graph)
+
+### 🚀 Github Overview
+[![trophy](https://github-profile-trophy.vercel.app/?username=pssun&title=-Reviews&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pssun&theme=vue&card_width=220&include_all_commits=true&hide=prs" />
