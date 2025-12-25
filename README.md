@@ -30,16 +30,6 @@ class="underline"
 ### ⌨️ Actions
 [![PSSUN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pssun&theme=react&height=200&days=31)](https://github.com/pssun/github-readme-activity-graph)
 
-### 🚀 Github Overview
-[![trophy](https://github-profile-trophy.vercel.app/?username=pssun&title=-Reviews&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-</br>
-</br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pssun&theme=vue&card_width=220&include_all_commits=true&hide=prs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssun&theme=vue&layout=compact&hide=javascript,Jupyter%20Notebook,HTML,perl,CSS&card_width=220" />
-</a>
 
 ### 📱 Social media
 
