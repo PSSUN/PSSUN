@@ -13,9 +13,9 @@
 - How alterations in biological sequences influence downstream functions. (Coming soon)
 
 ### 📃 Selected publications
-[1] **Sun P**, Bush S J, Wang S, et al. [STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8)[J]. **Cell Genomics**, 2025, 5(2). (*Featured content*)  
+[1] **Sun P#**, Bush S J, Wang S, et al. [STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8)[J]. **Cell Genomics**, 2025, 5(2). (*Featured content*)  
 [2] Li M#, **Sun P#**, Luo Y, et al. [SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data]()[J]. **Nature Communications**. 2026.  
-[3] **Sun P**, Li G. [CircCode: a powerful tool for identifying circRNA coding ability](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00981/full)[J]. **Frontiers in genetics**, 2019, 10: 981.  
+[3] **Sun P#**, Li G. [CircCode: a powerful tool for identifying circRNA coding ability](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00981/full)[J]. **Frontiers in genetics**, 2019, 10: 981.  
 
 ### 🎯 Work on
 [![STMiner](https://svg.bookmark.style/api?url=https://github.com/PSSUN/STMiner&mode=light&style=horizontal)](https://github.com/PSSUN/STMiner)
